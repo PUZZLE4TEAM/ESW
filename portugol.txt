@@ -17,3 +17,6 @@ fim
 fim
 
 ola manos
+
+//nao quero mexer no codigo
+//faca comentarios desse jeito
