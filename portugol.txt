@@ -1,0 +1,19 @@
+algoritmo "ola" 
+var a,b, c :inteiro
+inicio
+se a=9 entao
+inicio
+enquanto 1=1 faca
+inicio
+ se 2<=0 entao
+ inicio
+ fim
+ senao
+ inicio
+ fim
+fim
+fim
+
+fim
+
+
